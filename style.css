@@ -1,0 +1,21 @@
+H1 {
+    color: #808080;
+}
+H1 {
+    border: solid;
+}
+.Heading{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+
+}
+.Images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Instagram{
+    display: flex;
+    justify-content: flex-end;
+}
